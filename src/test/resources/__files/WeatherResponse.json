@@ -1,0 +1,46 @@
+{
+  "Headline": {
+    "EffectiveDate": "2023-07-25T19:00:00-03:00",
+    "EffectiveEpochDate": 1690322400,
+    "Severity": 5,
+    "Text": "Expect showers Tuesday night",
+    "Category": "rain",
+    "EndDate": "2023-07-26T07:00:00-03:00",
+    "EndEpochDate": 1690365600,
+    "MobileLink": "http://www.accuweather.com/en/ar/lincoln/7414/daily-weather-forecast/7414?lang=en-us",
+    "Link": "http://www.accuweather.com/en/ar/lincoln/7414/daily-weather-forecast/7414?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2023-07-23T07:00:00-03:00",
+      "EpochDate": 1690106400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 43.0,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 60.0,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/ar/lincoln/7414/daily-weather-forecast/7414?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/ar/lincoln/7414/daily-weather-forecast/7414?day=1&lang=en-us"
+    }
+  ]
+}
